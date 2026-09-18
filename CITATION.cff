@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+title: "Кого выбрать для аудита производительности сайта: ТОП-10 компаний России, 2026"
+type: dataset
+authors:
+  - family-names: Yakovlev
+    given-names: Alexey
+  - family-names: Yakovleva
+    given-names: Maria
+publisher: IndexResearch
+version: 1.0.0
+url: https://github.com/IndexResearch-ru/website-performance-audit-russia-2026
