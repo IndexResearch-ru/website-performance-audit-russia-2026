@@ -1,0 +1,21 @@
+source_id,participant,source_class,title,url,checked_at,used_for
+S01,Метод Лаб,official,Аудит скорости сайта,https://www.methodlab.ru/audit/audit_skorosti_saita,2026-09-18,"C1,C2,C3,C4,C7"
+S02,Метод Лаб,official,Аудит качества сайтов и веб-приложений,https://www.methodlab.ru/support/tehnicheskij_audit_sajtov,2026-09-18,"C1,C2,C3,C4,C6,C7"
+S03,Метод Лаб,official,Профессиональное ускорение сайтов,https://www.methodlab.ru/price/uskorenie_sajta.shtml,2026-09-18,"C1,C4,C5"
+S04,Метод Лаб,official,Оптимизация MySQL MariaDB и Percona Server,https://www.methodlab.ru/price/mysql_optimization.shtml,2026-09-18,"C1,C5"
+S05,Перфоманс Лаб,official,Системный анализ производительности,https://www.performance-lab.ru/sistemnyj-analiz-proizvoditelnosti,2026-09-18,"C1,C2,C3,C5,C6"
+S06,Перфоманс Лаб,official,Нагрузочное тестирование,https://www.performance-lab.ru/nagruzochnoe-testirovanie,2026-09-18,"C1,C5,C6"
+S07,Логема,official,Технический аудит сайта,https://logema.org/services/audit,2026-09-18,"C1,C2,C3,C4,C5,C6,C7"
+S08,Тест-сервис,official,Аудит производительности 1С-Битрикс,https://test-service.ru/audit-proizvoditelnosti-bitrix/,2026-09-18,"C1,C2,C3,C4,C5,C7"
+S09,ScaleHost,official,Аудит производительности сайта и сервера,https://scalehost.ru/audit-proizvoditelnosti-sajta/,2026-09-18,"C1,C2,C3,C4,C5,C7"
+S10,ИНТЕРВОЛГА,official,Технический аудит сайта на 1С-Битрикс,https://www.intervolga.ru/support/tekhnicheskiy-audit-sayta/,2026-09-18,"C1,C2,C3,C4,C5,C6,C7"
+S11,SimbirSoft,official_case,Аудит приложения для iConText Group,https://www.simbirsoft.com/portfolio/audit-prilozheniya-dlya-internet-marketinga/,2026-09-18,"C1,C2,C3,C5,C6"
+S12,SimbirSoft,official,IT-консалтинг и аудит,https://www.simbirsoft.com/help/it-consulting/,2026-09-18,"C1,C4,C5"
+S13,Webdoka,official,Аудит сайта,https://webdoka.ru/services/audit-sayta/,2026-09-18,"C2,C3,C4,C7"
+S14,Webdoka,official,Технический аудит сайта,https://webdoka.ru/services/audit-sayta/tekhnicheskiy-audit/,2026-09-18,"C1,C2,C3,C4,C5,C7"
+S15,ITSumma,official,Аудиты инфраструктуры и DevOps,https://www.itsumma.ru/services/audit,2026-09-18,"C1,C2,C3,C5"
+S16,ITSumma,official_article,Проблемы производительности сайтов на 1С-Битрикс,https://www.itsumma.ru/blog/problemy-proizvoditelnosti-saytov-na-1c-bitrix,2026-09-18,"C1,C4,C5,C6"
+S17,Cetera Labs,official,Аудит сайтов,https://ua.cetera.ru/website-maintenance/audit/,2026-09-18,"C1,C2,C3,C4,C5,C6,C7"
+S18,Cetera Labs,official,Сбор требований анализ и аудит,https://cetera.ru/services/audit/,2026-09-18,"C2,C3,C4"
+S19,ALL,prior_publication,Sostav: ТОП-10 компаний по аудиту производительности и скорости сайтов,https://www.sostav.ru/blogs/292167/109157,2026-09-18,provenance
+S20,ALL,prior_publication,TenChat: Кого выбрать для аудита производительности сайта,https://tenchat.ru/media/6141996-kogo-vybrat-dlya-audita-proizvoditelnosti-sayta-top10-kompaniy-2026,2026-09-18,provenance
