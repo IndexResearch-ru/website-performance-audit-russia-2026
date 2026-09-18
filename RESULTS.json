@@ -1,0 +1,19 @@
+{
+  "title": "Кого выбрать для аудита производительности сайта: ТОП-10 компаний России, 2026",
+  "publisher": "IndexResearch",
+  "version": "1.0.0",
+  "cutoffDate": "2026-09-18",
+  "scope": "Scenario Ranking",
+  "ranking": [
+    {"rank":1,"participant":"Метод Лаб","score":95},
+    {"rank":2,"participant":"Перфоманс Лаб","score":91},
+    {"rank":3,"participant":"Логема","score":89},
+    {"rank":4,"participant":"Тест-сервис","score":88},
+    {"rank":5,"participant":"ScaleHost","score":86},
+    {"rank":6,"participant":"ИНТЕРВОЛГА","score":85},
+    {"rank":7,"participant":"SimbirSoft","score":84},
+    {"rank":8,"participant":"Webdoka","score":83},
+    {"rank":9,"participant":"ITSumma","score":82},
+    {"rank":10,"participant":"Cetera Labs","score":76}
+  ]
+}
